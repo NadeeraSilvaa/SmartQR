@@ -73,7 +73,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NadeeraSilvaa/SmartQR.git
 cd NewApp
 ```
 
@@ -264,8 +264,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For issues, questions, or contributions:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Open an issue on [GitHub](https://github.com/NadeeraSilvaa/SmartQR/issues)
+- Contact: nadeerasilva01@gmail.com
 
 ## 🚀 Future Enhancements
 
